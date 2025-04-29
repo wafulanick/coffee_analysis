@@ -1,4 +1,4 @@
-# coffee_analysis
+# COFFEE ANALYSIS
 An analysis of the Sales and Profits of Coffee. I embarked on an Excel journey of analyzing the coffee dataset I acquired from Kaggle. To try to figure out insights on the Sales and profit from the data and determine how useful it can be.
 I begun by importing the data into power query in excel. This gives an overview just like Power BI that allowed me to transfomr my data by trimming the spaces before and efter the entries in the cells. Then I had to normalize my Date column into a Datetime data type for easy analysis.
 
